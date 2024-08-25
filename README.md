@@ -1,7 +1,7 @@
 
 比赛链接：[https://www.heywhale.com/org/bdc/competition](https://www.heywhale.com/org/bdc/competition/area/6662bf9a8d6c97c5d0c6bb10/content)
 # 代码说明
-数据分布就不说了，第一次碰上复现还能shake的，懒得喷....
+数据分布不一致就不说了，第一次碰上复现还能shake的，懒得喷....
 ## 环境配置（必选）
 使用的是官方镜像：Torch 2.2.2 Cuda 12.1 Python 3.11.8 Ubuntu 22.04
 
